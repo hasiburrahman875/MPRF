@@ -1,7 +1,7 @@
 # MPRF
 **Code for all Datasets except FL:** https://mailmissouri-my.sharepoint.com/:u:/r/personal/mrpk9_umsystem_edu/Documents/Reserach%20Synch/motion-feature.zip?csf=1&web=1&e=TFxqV9
 
-**Code for FL:** Code for NPS and MVAAOD with weights: https://mailmissouri-my.sharepoint.com/:u:/r/personal/mrpk9_umsystem_edu/Documents/Reserach%20Synch/motion-feature.zip?csf=1&web=1&e=TFxqV9
+**Code for FL:** https://mailmissouri-my.sharepoint.com/:u:/r/personal/mrpk9_umsystem_edu/Documents/Reserach%20Synch/fl-motion-feature.zip?csf=1&web=1&e=dWoOMf
 
 **Weight:** https://mailmissouri-my.sharepoint.com/:u:/g/personal/mrpk9_umsystem_edu/EffR4lEXePZPo-d3mXtcoQMBmvEZKtDDhbP-pvxGEvXwyw?e=4ee1b1
  
